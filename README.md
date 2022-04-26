@@ -1,5 +1,5 @@
 # officetools
-These are scripts I've used at work. 
+Scripts for a 4HLer
 
 ## PDF Renamers
 
